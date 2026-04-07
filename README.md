@@ -7,7 +7,7 @@ The dashboard provides insights into revenue, order volume, customer behavior, a
 
 ## Dashboard Link
 View the live dashboard here:
-[[Insert Tableau Public Link Here]](https://public.tableau.com/views/RetailCustomerPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/RetailCustomerPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Metrics
 - Total Revenue
